@@ -1,9 +1,11 @@
-[![MasterHead](https://i.gifer.com/Ry6p.gif)](https://Vitorcastanhos.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)](https://Vitorcastanhos.io)
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-- <h3 align="left">🌱 Studying web development</h3>
-- <h4>🌱 <italic><strong>I’m currently learning  HTML, CSS & JavaSript.</strong></italic></h4>
+<h3 align="left">🌱 Studying web development</h3>
+<h4>🌱 <italic><strong>I’m currently learning  HTML, CSS & JavaSript.</strong></italic></h4>
 
 
 <br/>
